@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+echo "NULL"
+exit 0
